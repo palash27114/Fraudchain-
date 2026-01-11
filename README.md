@@ -1,4 +1,4 @@
-# Fraudchain-
+# Fraudchain++
 FraudChain++ is an end-to-end Anti-Money Laundering (AML) framework built on Graph Neural Networks (GNNs) for detecting illicit activity in Bitcoin transaction networks. The project combines graph-based learning, explainable AI, and real-time streaming systems to enable regulator-aligned, production-ready fraud detection.
 The system integrates **graph learning, explainable AI, and streaming systems** to detect illicit financial behavior in a regulator-aligned, production-ready manner.
 
